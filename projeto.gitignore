@@ -1,0 +1,6 @@
+# Ignorar datasets grandes
+*.csv
+
+# Ignorar pastas de ambiente virtual do Python
+venv/
+__pycache__/
