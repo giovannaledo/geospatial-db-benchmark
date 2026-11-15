@@ -1,7 +1,7 @@
 import pandas as pd
 
 # 1. Definir o nome do arquivo (coloque o nome exato do arquivo que você baixou)
-arquivo_csv = 'SurveilDrone-Net23.csv' 
+arquivo_csv = 'data/SurveilDrone-Net23.csv' 
 
 print(f"--- Abrindo o arquivo: {arquivo_csv} ---")
 
