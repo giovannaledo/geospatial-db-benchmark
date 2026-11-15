@@ -190,4 +190,3 @@ dependencies:
       - dnspython==2.9.2
       - psycopg2-binary==2.9.13
       - pymongo==4.20.0
-prefix: C:\Users\giova\miniconda3\envs\ic_geo
